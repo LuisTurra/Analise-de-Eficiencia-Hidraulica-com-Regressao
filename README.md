@@ -1,11 +1,11 @@
-# Análise de Eficiência Hidráulica com Regressão Avançada
+# Análise de Eficiência Hidráulica com Regressão 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.20%2B-FF4B4B)](https://streamlit.io/)
 [![UCI Dataset](https://img.shields.io/badge/Dataset-UCI%20Hydraulic%20Systems-green)](https://archive.ics.uci.edu/dataset/447/condition+monitoring+of+hydraulic+systems)
 
-Projeto de **análise de eficiência hidráulica** usando regressão linear avançada (Linear, Ridge e Lasso) no dataset UCI "Condition Monitoring of Hydraulic Systems".  
+Projeto de **análise de eficiência hidráulica** usando regressão linear  (Linear, Ridge e Lasso) no dataset UCI "Condition Monitoring of Hydraulic Systems".  
 O objetivo é prever a eficiência (%) de sistemas hidráulicos a partir de dados de sensores, comparando dois cenários:  
 - **Modelo Completo** (todos os sensores, incluindo virtuais CE/CP)  
 - **Modelo Físico** (apenas sensores físicos, sem CE/CP)
