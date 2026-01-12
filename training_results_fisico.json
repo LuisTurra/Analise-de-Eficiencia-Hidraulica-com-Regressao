@@ -1,0 +1,15 @@
+{
+    "model_type": "Físico",
+    "mse_linear": 1.1283180520038874,
+    "mse_ridge": 1.0561933162206598,
+    "mse_lasso": 1.0860773741359333,
+    "best_model": "Ridge",
+    "best_mse": 1.0561933162206598,
+    "num_cycles": 2205,
+    "num_features": 56,
+    "split": "80% treino / 20% teste",
+    "epochs": 100,
+    "optimizer": "Adam",
+    "lr": 0.01,
+    "timestamp": "2026-01-12 13:52:25"
+}
