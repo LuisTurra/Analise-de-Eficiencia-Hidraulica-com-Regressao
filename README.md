@@ -29,6 +29,9 @@ O objetivo é prever a eficiência (%) de sistemas hidráulicos a partir de dado
 | Precisão                 | Excelente (quase perfeita)       | Moderada (mais realista)            |
 | Aplicação real           | Menos prático (CE/CP são virtuais) | Mais realista para manutenção preditiva |
 
+
+## Dashboard com Resultados do Treinamento : https://luisturra-analise-de-eficiencia-hidraulica-streamlit-app-ont94j.streamlit.app/ 
+
 ## Como Rodar
 
 ### 1. Instalar dependências
